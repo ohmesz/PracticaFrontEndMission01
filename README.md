@@ -34,7 +34,7 @@
 
 ## Buyer persona
 
-[Buyer persona](https://github.com/ohmesz/PracticaFrontEndMission01/blob/main/practica01/buyer_persona.pdf)
+Link a archivo [Buyer persona](https://github.com/ohmesz/PracticaFrontEndMission01/blob/main/practica01/buyer_persona.pdf)
 
 ---
 
@@ -46,6 +46,9 @@
 
 ## Wireframes
 
+Link a archivo [Wire frame design](https://github.com/ohmesz/PracticaFrontEndMission01/blob/main/practica01/Website%20Wireframing.pdf)
+
+Miro board online
 https://miro.com/app/board/uXjVOIzbxEM=/?invite_link_id=616061070098
 
 ---
